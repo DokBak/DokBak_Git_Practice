@@ -7,3 +7,11 @@ git commit -m "ADD : git commit -m [커밋메시지]
 
 "
 
+■ 커밋 메시지
+
+git commit -m "ADD : git commit -m [커밋메시지]
+
+스테이징된 파일을 스토리지에 올릴 떄 커밋 파일에 대한 설명을 작성.
+ -m : 커밋 메시지 추가.
+
+"
