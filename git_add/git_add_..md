@@ -1,6 +1,7 @@
 ■ 작성 예시
 
-git add . 
+git add .
+git add -A
 
 ■ 커밋 메시지
 
