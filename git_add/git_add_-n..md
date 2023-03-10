@@ -1,7 +1,7 @@
 ■ 작성 예시
 
 git add -n .
-git add --dryrun
+git add --dry-run
 
 ■ 커밋 메시지
 
