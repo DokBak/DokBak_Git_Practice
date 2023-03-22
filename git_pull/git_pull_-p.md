@@ -3,6 +3,9 @@
 git pull -p
 git pull --prune
 
+■ 옵션 종류
+가져오기 관련 옵션 
+
 ■ 커밋 메시지
 
 git commit -m "ADD : git pull -p
